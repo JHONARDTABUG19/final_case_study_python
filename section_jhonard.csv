@@ -1,0 +1,2 @@
+student_id,last_name,first_name,section,quiz1,quiz2,quiz3,quiz4,quiz5,midterm,final,attendance_percent,,final_numeric,final_grade,letter
+1010,tabug,none,jhonard,12.0,23.0,34.0,45.0,56.0,90.0,10.0,100.0,[''],50.2,50.20,F
